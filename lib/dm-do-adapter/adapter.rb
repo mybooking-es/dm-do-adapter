@@ -755,6 +755,6 @@ module DataMapper
 
     end
 
-    const_added(:DataObjectsAdapter)
+    dm_const_added(:DataObjectsAdapter)
   end
 end
